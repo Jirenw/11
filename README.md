@@ -86,8 +86,7 @@ Para detener al bot en termux
 
 ## Agradecido con el de arriba y a estos cracks :3
 
-√JIREN
-√WENDY-CHAN
+√JIREN Y WENDY-CHAN
 
 # Grupo de WhatsApp
 
