@@ -86,8 +86,8 @@ Para detener al bot en termux
 
 ## Agradecido con el de arriba y a estos cracks :3
 
-* <a href="https://github.com/〲⎠⎠ɪʀᴇɴ〴᭄「ɢ.ᴏ.ᴄ」"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
-* <a href="https://github.com/"🌹⃢⃟ꦼ𝔚𝔢𝔫𝔡𝔶-𝔠𝔥𝔞𝔫༒⃢⃟🇲🇽><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+* <a href="https://github.com/Jiren"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
+* <a href="https://github.com/Wendy-Chan><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
 * <a href="https://github.com/Koalien"><img alt="GitHub" src="https://img.shields.io/badge/NazwaS%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
 # Grupo de WhatsApp
 
