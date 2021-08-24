@@ -34,13 +34,6 @@ Para nuevos desde cero en termux:
 
 ⚡Si necesitas ayuda puedes contactarme :3 wa.me/+524591347471
 ```
-  }
-```
-## Comentarios ó sugerencias :3
-
-```bash
-> ELLA NO TE AMA, RECATATE.
-```
 
 ## BY :3
 
